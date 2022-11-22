@@ -57,6 +57,10 @@
         top: -121px;
         left: -83px;
     }
+    &-img {
+        position: relative;
+        z-index: 1;
+    }
 }
 
 .about__bottom {
